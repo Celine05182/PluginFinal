@@ -2,8 +2,8 @@
 
 /**
  * Plugin Name: Plugin Final
- * Description: Add popup for maintenance purpose
- * Author:      Julien Maury
+ * Description: Plugin final, alerts and timer
+ * Author:      Céline Même
  * Version:     0.1
 */
 
