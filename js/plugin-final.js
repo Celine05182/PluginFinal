@@ -40,6 +40,6 @@ window.onload = function (){
 
 		}, 1000)
 
-		xhr.send(JSON.stringify({ current_date: heures+":"+minutes+":"+secondes }));
+		
 
 	}
